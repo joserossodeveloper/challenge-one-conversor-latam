@@ -34,4 +34,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://raw.githubusercontent.com/JoseRosso26/challenge-one-conversor-latam/master/imagenes/menu%20principal.png)
+[!Imagen del menu principal](https://raw.githubusercontent.com/JoseRosso26/challenge-one-conversor-latam/master/imagenes/menu%20principal.png)
