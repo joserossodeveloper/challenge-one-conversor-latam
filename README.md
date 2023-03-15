@@ -35,3 +35,7 @@ que se ira implementando.
 <p align="center">
     <img width="460" height="auto" src="https://raw.githubusercontent.com/JoseRosso26/challenge-one-conversor-latam/master/imagenes/mensaje%20de%20programa%20terminado.png">
 </p>
+
+## El conversor de temperatura se implementara mas adelante
+
+...
