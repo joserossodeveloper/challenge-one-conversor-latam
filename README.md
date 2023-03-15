@@ -5,36 +5,26 @@
 El proyecto cuenta con dos funciones un conversor de monedas como funcion principal, y un conversor de temperatura
 que se ira implementando.
 
-## Installation
+## Input de la cantidad de monedas a convertir
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+![Input de la cantidad de monedas a convertir](https://raw.githubusercontent.com/JoseRosso26/challenge-one-conversor-latam/master/imagenes/entrada%20de%20datos%20conversor%20de%20monedas.png)
 
-```bash
-pip install foobar
-```
+## Menu de conversion de monedas
 
-## Usage
+![Menu de conversion de monedas](https://raw.githubusercontent.com/JoseRosso26/challenge-one-conversor-latam/master/imagenes/menu%20de%20conversion.png)
 
-```python
-import foobar
+## Desplegable de opciones de conversion
 
-# returns 'words'
-foobar.pluralize('word')
+![Desplegable de opciones de conversion](https://raw.githubusercontent.com/JoseRosso26/challenge-one-conversor-latam/master/imagenes/desplegable%20de%20opciones%20de%20conversion%20de%20monedas.png)
 
-# returns 'geese'
-foobar.pluralize('goose')
+## Resultado de la conversion
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+![Resultado de la conversion](https://raw.githubusercontent.com/JoseRosso26/challenge-one-conversor-latam/master/imagenes/resultado%20conversion%20monedas.png)
 
-## Contributing
+## Cuestinario sobre si queremos continuar ejecutando el programa
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+![Cuestinario sobre si queremos continuar ejecutando el programa](https://raw.githubusercontent.com/JoseRosso26/challenge-one-conversor-latam/master/imagenes/pregunta%20sobre%20si%20deseamos%20continuar%20en%20el%20programa.png)
 
-Please make sure to update tests as appropriate.
+## Mensaje de termino del programa
 
-## License
-
-![Imagen del menu principal](https://raw.githubusercontent.com/JoseRosso26/challenge-one-conversor-latam/master/imagenes/menu%20principal.png)
+![Mensaje de termino del programa](https://raw.githubusercontent.com/JoseRosso26/challenge-one-conversor-latam/master/imagenes/mensaje%20de%20programa%20terminado.png)
