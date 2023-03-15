@@ -128,13 +128,14 @@ public class MenuPrincipal extends JFrame {
 		btnContinuar.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				setVisible(false);
-				String input = JOptionPane.showInputDialog("Ingresa la cantidad de dinero que deseas convertir");
-				if (input==null) {
-					setVisible(true);
-				} else {
-					setVisible(false);
-					String indiceOpcion = Integer.toString(comboBox.getSelectedIndex());
+				String input;
+				try {
+					input = JOptionPane.showInputDialog("Ingresa la cantidad de dinero que deseas convertir");
+					Double.parseDouble(input);
 					SeleccionarTipoDeMoneda.main(new String[] {input});
+				} catch (NumberFormatException excepcion) {
+					JOptionPane.showMessageDialog(null, "El valor ingresado no es un numero", "Numero invalido", JOptionPane.INFORMATION_MESSAGE);
+					setVisible(true);
 				}
 			}
 		});
