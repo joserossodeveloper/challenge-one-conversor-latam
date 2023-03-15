@@ -1,6 +1,9 @@
-# Foobar
+# Challenge ONE | Java | Back End | Conversor de Moneda
 
-Foobar is a Python library for dealing with word pluralization.
+![Imagen del menu principal](https://raw.githubusercontent.com/JoseRosso26/challenge-one-conversor-latam/master/imagenes/menu%20principal.png)
+
+El proyecto cuenta con dos funciones un conversor de monedas como funcion principal, y un conversor de temperatura
+que se ira implementando.
 
 ## Installation
 
